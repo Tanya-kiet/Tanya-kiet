@@ -117,7 +117,7 @@ A framework designed to analyze the stability, consistency, and variance of LLM 
 
 `Python` • `Groq` • `OpenAI` • `Google Gemini` • `Sentence Transformers` • `Scikit-learn`
 
-👉 **[View Repository] (https://github.com/Tanya-kiet/PSAF-Prompt-Stability-Analysis-Framework)**
+👉 **[View Repository](https://github.com/Tanya-kiet/PSAF-Prompt-Stability-Analysis-Framework)**
 
 ---
 
