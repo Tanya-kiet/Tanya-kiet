@@ -136,7 +136,7 @@ An AI-powered construction planning and management application developed in a ha
 
 `Python` • `React` • `FastAPI` • `Generative AI` • `Machine Learning`
 
-👉 **[View Repository] (https://github.com/Tanya-kiet/Sanrachna)**
+👉 **[View Repository](https://github.com/Tanya-kiet/Sanrachna)**
 
 <p align="left">
   <img src="./assets/divider.svg" width="100%" alt="Section Divider" />
@@ -144,13 +144,14 @@ An AI-powered construction planning and management application developed in a ha
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Tanya-kiet&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=818cf8&text_color=c9d1d9" alt="Tanya's GitHub Stats" height="170" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Tanya-kiet&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9" alt="Top Languages" height="170" />
-</p>
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Tanya-kiet&theme=tokyonight&hide_border=true&background=0d1117&stroke=38bdf8&ring=818cf8&fire=f472b6&currStreakLabel=c9d1d9" alt="GitHub Contribution Streak" height="170" />
+  <img 
+    src="https://streak-stats.demolab.com/?user=Tanya-kiet&theme=tokyonight&hide_border=true&background=0d1117&stroke=38bdf8&ring=818cf8&fire=f472b6&currStreakLabel=c9d1d9" 
+    alt="GitHub Contribution Streak" 
+    height="170"
+  />
 </p>
 
 ---
