@@ -117,7 +117,7 @@ A framework designed to analyze the stability, consistency, and variance of LLM 
 
 `Python` • `Groq` • `OpenAI` • `Google Gemini` • `Sentence Transformers` • `Scikit-learn`
 
-👉 **[View Repository — URL to be added]**
+👉 **[View Repository] (https://github.com/Tanya-kiet/PSAF-Prompt-Stability-Analysis-Framework)**
 
 ---
 
@@ -126,25 +126,17 @@ An AI-powered resume screening and job matching platform featuring automated res
 
 `Python` • `FastAPI` • `Machine Learning` • `TF-IDF` • `Scikit-learn` • `React`
 
-👉 **[View Repository — URL to be added]**
+👉 **[View Repository](https://github.com/Tanya-kiet/HireSmart-AI)**
 
 ---
 
-### 📝 MetaScript AI
-An AI-powered transcript analysis platform that processes text transcripts to extract structured insights including named entities, emotional sentiment, key topics, and domain classification.
-
-`React` • `Vite` • `Node.js` • `Express.js` • `FastAPI` • `MongoDB` • `Generative AI`
-
-👉 **[View Repository — URL to be added]**
-
----
 
 ### 🏗️ Sanrachna
 An AI-powered construction planning and management application developed in a hackathon context to streamline structural project workflows.
 
 `Python` • `React` • `FastAPI` • `Generative AI` • `Machine Learning`
 
-👉 **[View Repository — URL to be added]**
+👉 **[View Repository] (https://github.com/Tanya-kiet/Sanrachna)**
 
 <p align="left">
   <img src="./assets/divider.svg" width="100%" alt="Section Divider" />
@@ -179,6 +171,20 @@ An AI-powered construction planning and management application developed in a ha
   <a href="https://github.com/Tanya-kiet">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
   </a>
+</p>
+
+## 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/Tanya-kiet">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/tanya-07-bhadana/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 </p>
 
 <br />
