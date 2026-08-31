@@ -17,7 +17,7 @@
 
 I am a **BTech Computer Science Engineering** student at **KIET**, focused on building intelligent systems and scalable software.
 
-- 🧠 **AI & LLM Focused**: I work on Generative AI and Large Language Model (LLM) applications, with a emphasis on Retrieval-Augmented Generation (RAG), Natural Language Processing (NLP), and intelligent systems.
+- 🧠 **AI & LLM Focused**: I work on Generative AI and Large Language Model (LLM) applications, with an emphasis on Retrieval-Augmented Generation (RAG), Natural Language Processing (NLP), and intelligent systems.
 - 💻 **Full-Stack Capability**: Beyond AI models, I build full-stack web applications, working across both frontend and backend technologies to deliver complete solutions.
 - 🚀 **Practical Application**: I enjoy turning conceptual ideas into practical, real-world applications that solve actual problems.
 - 🏆 **Continuous Growth**: I actively participate in projects and hackathons while continuously refining my problem-solving, DSA, and software engineering skills.
@@ -106,7 +106,7 @@ I am a **BTech Computer Science Engineering** student at **KIET**, focused on bu
 ### 🔬 ResearchRAG
 A Retrieval-Augmented Generation system engineered for academic and research question answering. Retrieves relevant context from research documents and uses an LLM to generate precise, grounded answers.
 
-`Python` • `FAISS` • `Sentence Transformers` • `LangChain` `Groq` • `Streamlit`
+`Python` • `FAISS` • `Sentence Transformers` • `LangChain` • `Groq` • `Streamlit`
 
 👉 **[View Repository](https://github.com/Tanya-kiet/ResearchRAG)**
 
@@ -117,12 +117,16 @@ A framework designed to analyze the stability, consistency, and variance of LLM 
 
 `Python` • `Groq` • `OpenAI` • `Google Gemini` • `Sentence Transformers` • `Scikit-learn`
 
+👉 **[View Repository — URL to be added]**
+
 ---
 
 ### 🎯 HireSmart AI
 An AI-powered resume screening and job matching platform featuring automated resume analysis, category prediction, candidate ranking, and job-description matching.
 
 `Python` • `FastAPI` • `Machine Learning` • `TF-IDF` • `Scikit-learn` • `React`
+
+👉 **[View Repository — URL to be added]**
 
 ---
 
@@ -131,12 +135,16 @@ An AI-powered transcript analysis platform that processes text transcripts to ex
 
 `React` • `Vite` • `Node.js` • `Express.js` • `FastAPI` • `MongoDB` • `Generative AI`
 
+👉 **[View Repository — URL to be added]**
+
 ---
 
 ### 🏗️ Sanrachna
 An AI-powered construction planning and management application developed in a hackathon context to streamline structural project workflows.
 
 `Python` • `React` • `FastAPI` • `Generative AI` • `Machine Learning`
+
+👉 **[View Repository — URL to be added]**
 
 <p align="left">
   <img src="./assets/divider.svg" width="100%" alt="Section Divider" />
@@ -145,8 +153,8 @@ An AI-powered construction planning and management application developed in a ha
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tanya-kiet&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=818cf8&text_color=c9d1d9" alt="Tanya's GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanya-kiet&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Tanya-kiet&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=818cf8&text_color=c9d1d9" alt="Tanya's GitHub Stats" height="170" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Tanya-kiet&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9" alt="Top Languages" height="170" />
 </p>
 
 <p align="center">
@@ -158,11 +166,7 @@ An AI-powered construction planning and management application developed in a ha
 ## 🐍 Contribution Activity
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tanya-kiet/Tanya-kiet/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tanya-kiet/Tanya-kiet/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Snake Contribution Grid" src="https://raw.githubusercontent.com/Tanya-kiet/Tanya-kiet/output/github-contribution-grid-snake-dark.svg" width="100%" />
-  </picture>
+  <img alt="GitHub Snake Contribution Grid" src="https://raw.githubusercontent.com/Tanya-kiet/Tanya-kiet/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </p>
 
 <p align="left">
@@ -175,8 +179,6 @@ An AI-powered construction planning and management application developed in a ha
   <a href="https://github.com/Tanya-kiet">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
   </a>
-  <!-- TODO: Add LinkedIn profile badge once exact profile URL is available -->
-  <!-- <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> -->
 </p>
 
 <br />
