@@ -144,8 +144,6 @@ An AI-powered construction planning and management application developed in a ha
 
 ## 📊 GitHub Statistics
 
-## 📊 GitHub Statistics
-
 <p align="center">
   <img 
     src="https://streak-stats.demolab.com/?user=Tanya-kiet&theme=tokyonight&hide_border=true&background=0d1117&stroke=38bdf8&ring=818cf8&fire=f472b6&currStreakLabel=c9d1d9" 
